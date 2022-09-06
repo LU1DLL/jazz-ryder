@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+article{
+    background-color: aqua;
+    border-radius: 5px;
+    border-style:groove;
+    color: rgb(0, 8, 8);
+    width: 200px;
+    height: 30px;
+    
+}
+
+.Contenedor1{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    margin-top: 50px;
+    margin-left: 50px; 
+    
+}

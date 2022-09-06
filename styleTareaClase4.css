@@ -1,0 +1,45 @@
+* {  margin: 0px;
+     padding: 5px;
+}
+
+.box1 {background-color: rgb(198, 227, 236);
+      border-radius: 10px;
+      margin-left: 400px;
+      margin-right: 750px;
+      margin-top: 80px;
+      margin-bottom: 0px;
+      z-index: 3;
+      position: absolute;
+        
+}
+h1 {text-align: center;}
+
+p {background-color: white;
+   vertical-align: bottom;
+   
+    
+   
+}
+
+form {padding-top: 20px;
+      padding-left: 20px;
+      padding-bottom: 10px;
+      margin-top: 50px; 
+      margin-left: 750px;
+      margin-right: 330px;
+      border-style: solid; border-width: 4px;
+      border-color: rgb(238, 203, 5);       
+      font-family: Arial, Helvetica, sans-serif; color: rgba(95, 88, 88, 0.822);
+      font-size: 1;
+      font-weight: 100;
+      position: absolute;
+
+}
+
+.enviar{ background-color: rgb(6, 126, 6);
+         font-style: normal; color: white;
+         border-radius: 5px;
+         width: 200px;
+         
+         
+}

@@ -1,0 +1,46 @@
+*{ margin 0px;
+   padding: 0px; 
+}
+
+.verde, .rojo, .gris{position: absolute; text-align: right;}
+
+.rojo{width: 500px;
+      height: 250px;
+      background-color: rgb(248, 16, 16);
+      z-index: 1;
+      padding-top: 5px;
+      padding-left: 5px;
+      text-align: right;
+      top: 100px;
+      left: 100px;
+}
+
+.verde{width: 250px; height: 200px;
+       background-color: rgb(13, 185, 13); 
+       z-index: 3;
+       top: 120px;
+       left: 120px;
+       padding-top: 5px;
+       padding-left: 5px;
+}
+
+.gris{width: 500px; 
+      height: 250px; 
+      background-color: #444242;
+      z-index: 2;
+      top: 170px;
+      left: 170px;
+      padding-top: 5px;
+      padding-left: 5px;    
+}
+
+.celeste{width: 500px;
+         height: 250px;
+         background-color: rgb(5, 153, 202);
+         z-index: 100;
+         margin-top: 30px;
+         margin-left: 30px;
+         text-align: right;
+         padding-top: 5px;
+         padding-left: 5px;
+}

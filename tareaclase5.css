@@ -1,0 +1,101 @@
+*{ margin: 0px;
+   padding: 0px;
+}
+
+
+.element1{background-color: rgba(90, 218, 90, 0.493);
+          border-style: dashed; border-color: rgba(90, 218, 90, 0.89);
+          width: 600px;
+          height: 100px; 
+          margin-top: 10%;
+          margin-left: 25%;
+          margin-right: 25%;
+          margin-bottom: -10%;
+          padding-top: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          position: relative;
+          z-index: 5;
+          font-family: Arial, Helvetica, sans-serif; 
+
+}
+
+.element2{background-color: rgba(90, 218, 90, 0.493);
+          border-style: dashed; border-color: rgba(90, 218, 90, 0.89);
+          width: 600px;
+          height: 100px;
+          padding-bottom: 15px;
+          margin-bottom: 500px;
+          margin-top: 25px;
+          margin-left: 25%;
+          padding-left: 10px;
+          padding-top: 25px;
+          font-family: Arial, Helvetica, sans-serif;
+          position: relative;
+          z-index: 2;
+      
+}
+
+.element3{ background-color: rgba(240, 130, 148, 0.582);
+           border-style: dashed; border-color:rgba(245, 69, 98, 0.808) ;
+           top: 150px;
+           left: 550px;
+           text-align: left;
+           padding-top: 160px;
+           padding-left: 10px;
+           position: absolute;
+           z-index: 4;
+           width: 500px;
+           height: 300px;
+           font-family: Arial, Helvetica, sans-serif
+}
+
+.element4{ width: 450px;
+           height: 90px;
+           margin-top: 10px;
+           margin-left: 570px;
+           margin-bottom: 60px;
+           position: relative;
+           z-index: 6;
+           background-color: rgba(212, 212, 103, 0.507);
+           border-style: dashed; 
+           border-color: rgba(192, 192, 2, 0.733) 2px ;
+           padding:5px;
+           font-family: Arial, Helvetica, sans-serif;
+           
+           
+}
+
+.element5{position: relative;
+          z-index: 1;
+          width: 450px; height: 75px;
+          position: relative;
+          border-style: dashed; 
+          border-color:rgb(248, 248, 6) 2px;
+          background-color: rgb(228, 228, 184);
+          padding:5px;
+          top: 50px;
+          left: 570px;
+          bottom: 500px;
+          font-family: Arial, Helvetica, sans-serif;
+          
+
+}
+
+.element6{ background-color: rgb(36, 189, 240);
+           border-style: dashed;
+           border-color: rgb(119, 204, 233);
+           width: 200px;%;
+           height:300px;
+           padding: 5px;
+           text-align: left;
+           padding-top:30px;
+           margin-left:60%;
+           margin-top:-20%;           
+           font-family:Arial, Helvetica, sans-serif;
+           position:absolute;
+           z-index:3;
+           
+}
+

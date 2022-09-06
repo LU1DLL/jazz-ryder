@@ -1,0 +1,41 @@
+.logo { border-image: auto; border-style: groove;}
+
+h1 {
+    text-align: center;
+    font-size: large= 50px; 
+    font-style: italic color: rgb(12, 247, 24);  
+    font-family: Georgia, 'Times New Roman', Times, serif;"
+}
+
+.TC{
+    text-align: left;
+    color: rgb(12, 247, 24);
+    font-size: 50px;
+}
+.box{border: rgb(252, 101, 14); border-style: groove; border-radius: 5px;}
+
+nav { text-align: center;}
+body { background-color: rgb(26, 6, 141); text-align: center; font-size: larger; font-style: italic; border-image: auto;
+      
+}
+.box2, footer { border-radius: 5px; border-style: double; border-color: rgb(252, 101, 14);}
+
+.fotos { 
+    border-style: groove; 
+    border-color:rgb(12, 247, 24); 
+}
+
+#carousel-item active{
+    align-items: center;
+    align-content: center;
+}
+div {border: solid rgb(252, 101, 14);
+    border-radius: 10px;
+    border-style: ridge;
+   
+}
+
+
+footer {background-color:  rgb(26, 6, 141);
+
+}
